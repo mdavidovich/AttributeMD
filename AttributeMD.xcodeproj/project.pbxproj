@@ -83,6 +83,8 @@
 		1F21671A171E25F9008BBE44 /* AttributeMD */ = {
 			isa = PBXGroup;
 			children = (
+				1F216723171E25F9008BBE44 /* AttributeAppDelegate.h */,
+				1F216724171E25F9008BBE44 /* AttributeAppDelegate.m */,
 				1F21672C171E25F9008BBE44 /* MainStoryboard.storyboard */,
 				1F21672F171E25F9008BBE44 /* AttributeViewController.h */,
 				1F216730171E25F9008BBE44 /* AttributeViewController.m */,
@@ -94,8 +96,6 @@
 		1F21671B171E25F9008BBE44 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				1F216723171E25F9008BBE44 /* AttributeAppDelegate.h */,
-				1F216724171E25F9008BBE44 /* AttributeAppDelegate.m */,
 				1F21671C171E25F9008BBE44 /* AttributeMD-Info.plist */,
 				1F21671D171E25F9008BBE44 /* InfoPlist.strings */,
 				1F216720171E25F9008BBE44 /* main.m */,
@@ -299,7 +299,6 @@
 				1F216736171E25F9008BBE44 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
